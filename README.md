@@ -1,5 +1,5 @@
 
-[HitCount](http://hits.dwyl.com/saurabhkumarsaurabhkumar/saurabhkumarsaurabhkumar.svg)
+[![HitCount](http://hits.dwyl.com/saurabhkumarsaurabhkumar/saurabhkumarsaurabhkumar.svg)
 
 - 🔭 I’m currently working on India
 - 🌱 I’m currently working on Artificial Intelligence using 🐍 .
