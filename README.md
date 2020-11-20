@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**saurabhkumarsaurabhkumar/saurabhkumarsaurabhkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on India
+- 🌱 I’m currently working on Artificial Intelligence using 🐍 .
+- 👯 I’m looking to collaborate on India
+- 🤔 I’m looking for confederate with india 
+- 💬 Ask me about ML/DL.
+- 📫 How to reach me: Email I'd: saurabhkummarsk912554@gmail.com
+- 😄 My mom used to call me Sonu.
 - ⚡ Fun fact: ...
--->
+
+
+
+👨‍💻 Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
