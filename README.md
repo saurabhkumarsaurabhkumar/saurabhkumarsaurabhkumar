@@ -8,7 +8,7 @@
 - 💬 Ask me about ML/DL.
 - 📫 How to reach me: Email I'd: saurabhkummarsk912554@gmail.com
 - 😄 My mom used to call me Sonu.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 
 
 
