@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on India
 - 🤔 I’m looking for confederate with india 
 - 💬 Ask me about ML/DL.
-- 📫 How to reach me: Email I'd: saurabhkummarsk912554@gmail.com
+- 📫 How to reach me: Linkendin: https://www.linkedin.com/in/saurabh-kumar-36854714b/ 
 - 😄 My mom used to call me Sonu.
 - ⚡ Fun fact: ..
 
