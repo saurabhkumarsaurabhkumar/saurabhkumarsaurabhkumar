@@ -2,10 +2,10 @@
 ![HitCount](http://hits.dwyl.com/saurabhkumarsaurabhkumar/saurabhkumarsaurabhkumar.svg)
 
 - 🔭 I’m currently working on India
-- 🌱 I’m currently working on Artificial Intelligence using 🐍 .
+- 🌱 I’m currently working on Software Developer .
 - 👯 I’m looking to collaborate on India
 - 🤔 I’m looking for confederate with india 
-- 💬 Ask me about ML/DL.
+- 💬 Ask me about C++,Python,MySQL and Deep learning.
 - 📫 How to reach me: Linkendin: https://www.linkedin.com/in/saurabh-kumar-36854714b/ 
 - 😄 My mom used to call me Sonu.
 - ⚡ Fun fact: ..
